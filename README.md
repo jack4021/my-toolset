@@ -29,6 +29,7 @@ I created this repo to store a list of standard tools (including custom ones) I 
 - [Wireshark](https://www.wireshark.org/) - network packet monitoring
 - [DBeaver](https://dbeaver.io/) - a universal database client
 - [Notion](https://www.notion.so/) - taking notes
+- [Postman](https://www.postman.com/) - API testing and cURL alternative
 
 ## IDEs
 - [JetBrains Rider](https://www.jetbrains.com/rider/) - for C#
