@@ -3,8 +3,8 @@
 I created this repo to store a list of standard tools (including custom ones) I use regularly as part of my workflow.
 
 ## Terminals
-[iTerm2](https://iterm2.com/) - my everyday terminal
-[Warp](https://www.warp.dev/) - a handy terminal for those that are looking for an easy-to-use terminal with powerful features
+- [iTerm2](https://iterm2.com/) - my everyday terminal
+- [Warp](https://www.warp.dev/) - a handy terminal for those that are looking for an easy-to-use terminal with powerful features
 
 ## Terminal Candy
 [oh-my-zsh](https://ohmyz.sh/) - a framework for managing zsh configuration
