@@ -7,7 +7,7 @@ I created this repo to store a list of standard tools (including custom ones) I 
 - [Warp](https://www.warp.dev/) - a handy terminal for those that are looking for an easy-to-use terminal with powerful features
 
 ## Terminal Candy
-[oh-my-zsh](https://ohmyz.sh/) - a framework for managing zsh configuration
+- [oh-my-zsh](https://ohmyz.sh/) - a framework for managing zsh configuration
 
 ### Plugins for Oh-My-Zsh
 - gh - a built-in autocompleter for the GitHub CLI
