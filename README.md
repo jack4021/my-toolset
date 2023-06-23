@@ -3,10 +3,10 @@
 I created this repo to store a list of standard tools (including custom ones) I use regularly as part of my workflow.
 
 ## Terminals
-[Download](https://iterm2.com/) - my everyday terminal
+[iTerm2](https://iterm2.com/) - my everyday terminal
 
-## Oh-My-Zsh
-[Download](https://ohmyz.sh/) - a framework for managing zsh configuration
+## Terminal Candy
+[oh-my-zsh](https://ohmyz.sh/) - a framework for managing zsh configuration
 
 ### Plugins for Oh-My-Zsh
 - gh - a built-in autocompleter for the GitHub CLI
