@@ -30,6 +30,6 @@ I created this repo to store a list of standard tools (including custom ones) I 
 - [Notion](https://www.notion.so/) - taking notes
 
 ## IDEs
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [JetBrains Rider](https://www.jetbrains.com/rider/)
-- [JetBrains IntelliJ](https://www.jetbrains.com/idea/)
+- [JetBrains Rider](https://www.jetbrains.com/rider/) - for C#
+- [JetBrains IntelliJ](https://www.jetbrains.com/idea/) - for Java
+- [Visual Studio Code](https://code.visualstudio.com/) - everything else
