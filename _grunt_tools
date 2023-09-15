@@ -1,0 +1,9 @@
+#compdef gbuild grun gtestconfig gclean gprepdb
+
+function _grunt_tools() {
+  IFS=$'\n'
+  local items=($(ls config | grep '.*\.json' | sed -e 's/\.json$//'))
+  _arguments "--target=[target]:the target to execute:(${items})"
+}
+
+_grunt_tools "$@"

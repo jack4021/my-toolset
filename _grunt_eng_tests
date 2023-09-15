@@ -1,0 +1,7 @@
+#compdef gtestapi
+
+function _grunt_eng_tests() {
+  _arguments "--features=[features]:the feature to execute:_files -g '*.feature'" "--grep=[the hash of the test to run]"
+}
+
+_grunt_eng_tests "$@"
