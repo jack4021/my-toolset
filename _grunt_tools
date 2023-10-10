@@ -3,7 +3,7 @@
 function _grunt_tools() {
   IFS=$'\n'
   local items=($(ls config | grep '.*\.json' | sed -e 's/\.json$//'))
-  _arguments "--target=[target]:the target to execute:(${items})"
+  _arguments '--target=[target]:the target to execute:(${items})' '--forceBuild[Force a build without reinstalling dependencies.]' '--forceInstall[Force a build and reinstall dependencies.]'
 }
 
 _grunt_tools "$@"
