@@ -4,8 +4,10 @@
 
 __gh_debug()
 {
+    echo "Is debug working - 1?"
     local file="$BASH_COMP_DEBUG_FILE"
     if [[ -n ${file} ]]; then
+        echo "Is debug working - 2?"
         echo "$*" >> "${file}"
     fi
 }
