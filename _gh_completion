@@ -4,10 +4,8 @@
 
 __gh_debug()
 {
-    echo "Is debug working - 1?"
     local file="$BASH_COMP_DEBUG_FILE"
     if [[ -n ${file} ]]; then
-        echo "Is debug working - 2?"
         echo "$*" >> "${file}"
     fi
 }
@@ -201,7 +199,4 @@ _gh()
     fi
 }
 
-# don't run the completion function when being source-ed or eval-ed
-# if [ "$funcstack[1]" = "_gh" ]; then
-#     _gh
-# fi
+_gh
