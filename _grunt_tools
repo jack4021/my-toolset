@@ -1,4 +1,4 @@
-#compdef gbuild grun gtestconfig gclean gprepdb gcreate
+#compdef gbuild grun gtestconfig gclean gprepdb gcreatedb
 
 function _grunt_tools() {
   IFS=$'\n'
